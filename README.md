@@ -3,7 +3,7 @@
 ## Bienvenue sur mon projet
 
     Il s'agit uniquement d'un simple projet d'entrainement consistant à réaliser un petit quizz.
-    Il n'y a donc pas de près requis d'installation.
+    Il n'y a donc pas de prèrequis d'installation.
 
     Il faudra simplement cloner le repo.
 
